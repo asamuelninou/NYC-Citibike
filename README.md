@@ -34,3 +34,8 @@ I would like to investigate particular locations that Citibikes are used the mos
 ### Bike Repairs by gender and location
 ![image](https://user-images.githubusercontent.com/92180070/216748186-7e1ba554-8c1b-4e31-b90d-a20105752c19.png)
 1) To perform a risk analysis, it is important to determine which bikes need to be repaired. It would be interesting to determine which start and stop locations get used the most and determine if there are any hazards that we can get ahead of. 
+
+Gender Matters Dashboard
+[link to dashboard](https://public.tableau.com/views/NYCCitibikeResearch/GenderMatters?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Time is of the Essence Dashboard
+[link to dashboard](https://public.tableau.com/views/NYCCitibikeResearch/TimeisoftheEssence?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
